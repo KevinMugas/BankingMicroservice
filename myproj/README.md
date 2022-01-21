@@ -1,1 +1,1 @@
-BankingMicroservice
+Documentation of myproj
